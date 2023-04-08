@@ -1,0 +1,409 @@
+.navs{
+    justify-content: center;
+    margin-left: 32rem;
+    font-size: 0.8rem;
+    margin-top: 1.7rem;
+    font-weight: 550;
+    text-decoration: none;
+}
+.logo{
+    margin-left: 2.6rem;
+    margin-bottom: -3.8rem;
+    height: 7.4vh;
+}
+#home{
+    margin-right: 2rem;
+    color: black;
+}
+#features{
+    margin-right: 2rem;
+    color: black;
+
+}
+#support{
+    margin-right: 2rem;
+    color: black;
+}
+#contact{
+    color: black;
+}
+.side-container{
+    margin-left: 58rem;
+    margin-top: -4.2rem;
+    height: 120vh;
+    position: relative;
+      
+}
+.download-button{
+    width: 11vw;
+    height: 8vh;
+    font-size: 0.6rem;
+    font-weight: 700;
+    border-radius: 0.3rem;
+    border-style: none;
+    margin-left: 66rem;
+    margin-top: -41.3rem;
+    position: absolute;
+    background-color: #4285F4;
+    color: white;
+
+}
+.doctor-image{
+    margin-left: 37.3rem;
+    width: 46.8vw;
+    position: absolute;
+    margin-top: -34rem;
+    height: 70vh;
+}
+.paragraph-1{
+    font-size: 3.4rem;
+    font-weight: bolder;
+    margin-bottom: 0.5rem;
+}
+.health{
+    color: #4285F4;
+}
+.paragraph-s{
+    font-weight: 500;
+    opacity: 0.7;
+    margin-bottom: 1.5rem;
+}
+.paragraphs{
+    margin-top: -30.8rem;
+    margin-left: 3rem;
+}
+.get-button{
+    width: 11vw;
+    height: 8vh;
+    font-size: 0.7rem;
+    font-weight: 750;
+    border-radius: 0.3rem;
+    border-style: none;
+    background-color: #fd5234;
+    color: white;
+}
+.stay-span{
+    opacity: 0.5;
+}
+.WV-pragraph{
+    font-size: 0.8rem;
+    margin-bottom: -1rem;
+    
+}
+.stay-safe{
+    margin-left: 10rem;
+    margin-top: 5rem;
+}
+.play-button{
+    margin-left: 6.2rem;
+    margin-bottom: -7.8rem;
+    height: 8.7vh;
+}
+.box-phone{
+    margin-top: 11rem;
+    margin-left: 6rem;
+}
+.section-2-paragraph{
+    margin-left: 37rem;
+    margin-top: -28rem;  
+}
+.STW{
+    font-size: 3rem;
+}
+.GCN{
+    color: #cf3014;
+}
+.long-paragraph{
+    opacity: 0.8;
+    font-size: 1rem;
+    font-weight: 540;
+    margin-top: -1.8rem;
+    margin-bottom: 1.8rem;
+}
+.section-2-button{
+    width: 11.5vw;
+    height: 8vh;
+    font-size: 0.7rem;
+    font-weight: 750;
+    border-radius: 0.3rem;
+    border-style: none;
+    background-color: #cf3234;
+    color: white;
+
+}
+.section-3-image{
+    margin-top: 20rem;
+    margin-left: 14.5rem;
+}
+.section-3-border{
+    width: 40rem;
+    height: 6.8rem;
+    border-style: solid;
+    border-radius: 1.2rem;
+    margin-left: 17rem;
+    margin-top: -9.5rem;
+    position: absolute;
+    background-color: white;
+    border-style: hidden;
+}
+.section-3-h1{
+    margin-left: 5rem;
+}
+.m-h1{
+    color: #cf3014;
+    font-size: 2.4rem;
+    margin-top: 1.2rem;
+    font-weight: 900;
+     
+}
+.users-p{
+    margin-top: -1.8rem;
+    font-size: 0.8rem;
+    font-weight: 850;
+    margin-left: 0.1rem;   
+}
+#second{
+    margin-left: 14.9rem;
+    margin-top: -5.1rem;
+}
+.users-H{
+    margin-top: -1.8rem;
+    font-size: 0.8rem;
+    font-weight: 850;
+    margin-left: -1rem; 
+
+}
+.third{
+    margin-left: 28rem;
+    margin-top: -4.9rem;
+}
+.users-M{
+    margin-top: -2rem;
+    font-size: 0.8rem;
+    font-weight: 850;
+}
+.fourth-h1{
+    margin-top: 10rem;
+    margin-left: -10.6rem;
+}
+.fourth-p{
+    font-size: 3rem;
+    margin-right: -5rem;
+}
+#ex-p{
+    color: #4285F4;
+}
+.BK{
+    opacity: 0.7;
+    font-size: 0.9rem;
+    font-weight: 530;
+    margin-top: -2rem;
+}
+.F-button{
+    width: 11.7vw;
+    height: 7vh;
+    font-size: 0.7rem;
+    font-weight: 750;
+    border-radius: 0.3rem;
+    border-style: none;
+    background-color: #cf3234;
+    color: white;
+    margin-top: 0.8rem;
+    margin-left: -10.6rem;
+}
+.fourth-container{
+    margin-left: 20rem;
+    margin-top: -15rem;
+    width: 33rem;
+    height: 18rem;
+    border-style: dotted;
+    border-radius: 0.5rem;
+      
+}
+#fourth-img{
+    margin-left: 5.6rem;
+    margin-top: 1.8rem;
+}
+.section-3-4{
+    margin-bottom: 30rem;
+    background-color: aliceblue;
+
+}
+.hj{
+    background-color: aliceblue;
+}
+#h1-fifth{
+    color: #fd5234;
+}
+.fifth-h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 12.6rem;
+}
+.fifth-paragraph{
+    opacity: 0.7;
+    margin-top: -2.2rem;
+    margin-left: 3.3rem;
+    font-size: 0.95rem;
+}
+.bbb{
+    margin-left: 0.9rem;
+}
+.sixth-container{
+    width: 17rem;
+    height: 15.8rem;
+    border-style: dotted;
+    margin-left: -10rem;
+    margin-top: -9rem;
+    position: absolute;
+    background-color: white;
+}
+.sixth-image{
+    margin-left: 6.2rem;
+    margin-top: -0rem;
+    margin-bottom: -5.6rem;
+}
+#box-image1{
+    margin-top: 7rem;
+    margin-left: 4.2rem;
+}
+#sy-c{
+    margin-left: 3.7rem;
+    margin-top: 8rem;
+}
+#messi{
+    margin-left: 3.2rem;
+    font-size: 0.9rem;
+    font-weight: 540;
+    opacity: 0.8;
+}
+#anto{
+    margin-left: 1.9rem;
+    font-size: 0.9rem;
+    font-weight: 540;
+    opacity: 0.8;
+}
+.ed{
+    margin-top: -0.7rem;
+
+}
+.big-rectangle{
+    margin-left: 36rem;
+    margin-top: -6rem;
+    position: ;
+    margin-bottom: 0.8rem;
+}
+.seventh-container{
+    width: 17rem;
+    height: 15.8rem;
+    border-style: dotted;
+    margin-left: 22.2rem;
+    margin-top: -19rem;
+    background-color: white;
+    position: absolute;
+}
+.seventh-image{
+    margin-left: 6.2rem;
+    margin-top: -0rem;
+    margin-bottom: -5.6rem;
+}
+#fx{
+    margin-left: 2.9rem;
+    margin-top: 8rem;
+}
+.nina{
+    margin-top: -0.7rem;
+    font-size: 0.9rem;
+    font-weight: 540;
+    opacity: 0.8;
+}
+#ccw{
+    margin-left: 3.2rem;
+    font-size: 0.9rem;
+    font-weight: 540;
+    opacity: 0.8;
+}
+#wwk{
+    margin-left: 3rem;
+    font-size: 0.9rem;
+    font-weight: 540;
+    opacity: 0.8;
+
+}
+.small-rectangle{
+    margin-left: 58.4rem;
+    margin-top: -21.5rem;
+    position: absolute;
+}
+.container-8{
+    width: 17rem;
+    height: 15.8rem;
+    border-style: dotted;
+    margin-left: 44.4rem;
+    margin-top: -19rem;
+    position: absolute;
+    background-color: white;
+}
+.container-8-image{
+    margin-left: 5.8rem;
+    margin-top: -0rem;
+    margin-bottom: -5.6rem;
+}
+#save-myself{
+    margin-left: 5.5rem;
+    margin-top: 8rem;
+}
+#star{
+    margin-top: -0.7rem;
+    font-size: 0.9rem;
+    font-weight: 540;
+    opacity: 0.8;
+    margin-left: 3.1rem;
+}
+#perfect{
+    margin-left: 3.6rem;
+    font-size: 0.9rem;
+    font-weight: 540;
+    opacity: 0.8;
+}
+.paragraph-8{
+    margin-top: -0.7rem;
+}
+.sixth-container, .seventh-container, .container-8{
+    border-radius: 0.4rem;
+}
+.visit-store{
+    display: flex;
+    margin-left: 23rem;
+    margin-top: 4rem;
+    justify-content: space-between;
+}
+.google-play-image{
+    height: 8.6vh;
+    margin-top: -2rem;
+    margin-left: -4rem;
+}
+.app-store-image{
+    height: 10vh;
+    max-width: 26vw;
+    margin-top: -2.2rem;
+    margin-left: 5rem;
+
+}
+
+
+
+    
+                    
+
+
+
+
+
+
+
+
+
+
+
+
